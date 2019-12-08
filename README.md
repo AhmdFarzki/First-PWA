@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 # First-PWA
 =======
 <p align="center">
@@ -93,3 +94,6 @@ Check out the [CONTRIBUTING document](CONTRIBUTING.md) in the root of the reposi
 ## Copyright and license
 Code Copyright 2018 Materialize. Code released under the MIT license.
 >>>>>>> first
+=======
+# First-PWA
+>>>>>>> 8e890789cfee4fca9d36c9c8254aeb92f435c6d5
